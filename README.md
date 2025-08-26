@@ -8,6 +8,12 @@ This repo is for 2026 GB submission.
 ### August, 2025
  
 - 8/26, 10:15am, ML meeting (Ramesh, Riccardo, Elia, Misun)
+  - target: reduction (25 convective time) in initial time for reasonable statistical pressure drop 
+  - regression (supervised) or generative (unsupervised)
+  - surrogate model: graph transformer based diffusion model via graph network
+  - possible a complex geometry or one to the other geometry
+  - decompose data using subdomain, prediction of surgoate, independent of the problem size
+    
 - 8/22, 03:00pm, Kickoff Meeting (Ramesh, Elia, Paul, Misun)
   
   - 7 pins: https://www.tandfonline.com/doi/abs/10.1080/00295639.2023.2246778
