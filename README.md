@@ -6,7 +6,8 @@ This repo is for 2026 GB submission.
 
 
 ### August, 2025
-- 09/09 Tue, 12pm CT 
+
+- 09/09 Tue, 12pm CT (extended invite Dillon, Kirk, Jun, Tri)
 - 08/26 Tue, 10:15am, ML meeting (Ramesh, Riccardo, Elia, Misun)
   - target: reduction (25 convective time) in initial time for reasonable statistical pressure drop from 7 pins to 217 pins
   - regression (supervised) or generative (unsupervised)
