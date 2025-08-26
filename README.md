@@ -8,7 +8,7 @@ This repo is for 2026 GB submission.
 ### August, 2025
  
 - 8/26, 10:15am, ML meeting (Ramesh, Riccardo, Elia, Misun)
-  - target: reduction (25 convective time) in initial time for reasonable statistical pressure drop 
+  - target: reduction (25 convective time) in initial time for reasonable statistical pressure drop from 7 pins to 217 pins
   - regression (supervised) or generative (unsupervised)
   - surrogate model: graph transformer based diffusion model via graph network
   - possible a complex geometry or one to the other geometry
@@ -17,7 +17,6 @@ This repo is for 2026 GB submission.
 - 8/22, 03:00pm, Kickoff Meeting (Ramesh, Elia, Paul, Misun)
   
   - 7 pins: https://www.tandfonline.com/doi/abs/10.1080/00295639.2023.2246778
-     - ML checking presure drop and use surrogateto get initial condition for 217
   - 37 pins: https://www.sciencedirect.com/science/article/pii/S0029549320301515
   - 61 pins: https://www.sciencedirect.com/science/article/pii/S0029549318308653
   - 217 pins: https://www.mcs.anl.gov/~obabko/rep1.pdf
