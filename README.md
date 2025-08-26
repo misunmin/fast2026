@@ -5,7 +5,7 @@ This repo is for 2026 GB submission.
 ## Meetings
 
 
-- August, 2025
+### August, 2025
  
    - 8/26, 10:15am, ML meeting (Ramesh, Riccardo, Elia, Misun)
    - 8/22, 03:00pm, Kickoff Meeting (Ramesh, Elia, Paul, Misun)
