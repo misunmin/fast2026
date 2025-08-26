@@ -12,9 +12,8 @@ This repo is for 2026 GB submission.
   
   - 7 pins: https://www.tandfonline.com/doi/abs/10.1080/00295639.2023.2246778
   - 61 pins: https://www.sciencedirect.com/science/article/pii/S0029549320301515
-  - 217 pins: https://www.sciencedirect.com/science/article/pii/S0029549318308653
-
-https://www.mcs.anl.gov/~obabko/rep1.pdf
+  - 61 pins: https://www.sciencedirect.com/science/article/pii/S0029549318308653
+  - 217 pins: https://www.mcs.anl.gov/~obabko/rep1.pdf
 
 - 8/19, 02:00pm, Elia, Paul, Misun (Planning, checking options: possibly ML + fission or ML + MHD)
 
