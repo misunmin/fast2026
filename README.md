@@ -2,7 +2,7 @@
 
 This repo is for 2026 GB submission.
 
-## Meetings
+# Meetings
 
 
 ### August, 2025
@@ -24,3 +24,7 @@ This repo is for 2026 GB submission.
 
 - 08/19 Tue, 02:00pm CT, Elia, Paul, Misun (Planning, checking options: (ML+fission  OR  ML+MHD)
 
+
+# Some references
+
+- https://anl.app.box.com/s/4gywvi3va7n4wqdy4gmmzvmpbft2o8pd/file/1793753068753
